@@ -1,4 +1,4 @@
-# college-buzz-hub
+# College-buzz-hub
 CollegeBuzz Hub is a comprehensive platform designed to keep students updated with upcoming events, provide detailed information about each event, and facilitate easy contact with student and faculty coordinators.
 
 ## Overview
